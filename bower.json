@@ -1,0 +1,26 @@
+{
+  "name": "ng-slide-box",
+  "homepage": "https://github.com/rcbitencourt/ng-slide-box",
+  "authors": [
+    "Rafael Bitencourt <rcbitencourt@live.com>"
+  ],
+  "description": "Text box collpasable, using ease animation for AngularJS",
+  "main": "dist/ng-slide-box.js",
+  "moduleType": [],
+  "keywords": [
+    "angularjs",
+    "slide",
+    "collapsable",
+    "ui",
+    "javascript"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "app/bower_components",
+    "test",
+    "tests"
+  ]
+}

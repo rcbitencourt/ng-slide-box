@@ -1,0 +1,33 @@
+{
+  "name": "ng-slide-box",
+  "version": "0.0.1",
+  "description": "Text box collpasable, using ease animation in Angular",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rcbitencourt/ng-slide-box.git"
+  },
+  "keywords": [
+    "angularjs",
+    "coffee",
+    "directive",
+    "javascript"
+  ],
+  "author": "Rafael Bitencourt",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rcbitencourt/ng-slide-box/issues"
+  },
+  "homepage": "https://github.com/rcbitencourt/ng-slide-box#readme",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-coffee": "^2.3.1",
+    "gulp-util": "^3.0.7"
+  },
+  "bugs": {
+    "url": "https://github.com/rcbitencourt/ng-slide-box/issues"
+  },
+}
