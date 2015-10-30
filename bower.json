@@ -4,7 +4,7 @@
   "authors": [
     "Rafael Bitencourt <rcbitencourt@live.com>"
   ],
-  "description": "Text box collapsable, using ease animation for AngularJS",
+  "description": "Text box collapsable, using ease animation. Based on AngularJS.",
   "main": "dist/ng-slide-box.js",
   "moduleType": [],
   "keywords": [
