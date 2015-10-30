@@ -1,7 +1,7 @@
 {
   "name": "ng-slide-box",
   "version": "0.0.1",
-  "description": "Text box collpasable, using ease animation in Angular",
+  "description": "Text box collapsable, using ease animation in Angular",
   "main": "index.js",
   "scripts": {
     "test": "test"
